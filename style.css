@@ -56,8 +56,8 @@
     font-size: 45px;
     font-weight: bold;
     margin-bottom: 10px;
-
-}.featured-pgh{
+}
+.featured-pgh{
     font-size: 18px;
     font-weight: bold;
     color:rgb(79, 74, 74);
@@ -124,4 +124,29 @@
     font-size: 40px;
     font-weight: bold;
     margin-bottom: 20px;
+ }
+
+ /* instagram section */
+
+
+ .instagramd-heading{
+    font-size: 45px;
+    font-weight: bold;
+    margin-bottom: 10px;
+ }
+
+ .instagramd-pgh{
+    font-size: 15px;
+    font-weight: bold;
+    color:rgb(117, 110, 110);
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 30px;
+ }
+ .instagram{
+    margin-top: 130px;
+    text-align: center;
+    margin-left: 500px;
+    margin-right: 500px;
+
  }

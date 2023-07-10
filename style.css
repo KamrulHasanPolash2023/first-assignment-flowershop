@@ -1,0 +1,44 @@
+*{  margin: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+.banner-section{
+    height: 850px;
+    background-color: rgba(217, 108, 172, 0.271);
+    display:flex;
+    gap: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.banner-heading{
+    font-size: 60px;
+    color:rgb(0, 0, 0);
+    font-weight: 800;
+}
+.bnanner-Paragraph{
+    font-size: 25px;
+    color: rgb(36, 34, 34);
+    margin-top: 30px;
+    text-align: justify;
+}
+
+.gen-button{
+    background-color: #f94e73;    
+    font-weight: bold;
+    text-decoration: none;
+    padding: 15px 25px;
+    margin-top: 25px;
+
+}
+.a-button{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+
+}
+
+.banner-img{
+    margin-top: 100px;
+}

@@ -42,3 +42,69 @@
 .banner-img{
     margin-top: 100px;
 }
+
+
+/* Featured Section*/
+
+.featured-section{
+    margin-top: 110px;
+    text-align: center;
+    padding: 0 500px;
+}
+
+.featured-heading{
+    font-size: 45px;
+    font-weight: bold;
+    margin-bottom: 10px;
+
+}.featured-pgh{
+    font-size: 18px;
+    font-weight: bold;
+    color:rgb(79, 74, 74);
+    text-align: center;
+    justify-content: center;
+    margin-bottom: 30px;
+
+}
+/*featured Photo section*/
+  .first-pic-holder{
+    width: 450px;
+    height: 530px;
+    background-color: rgba(255, 192, 203, 0.746);
+    border: 1px solid rgb(255, 255, 255);
+    border-top-left-radius: 270px;
+    border-top-right-radius: 270px;
+  }
+  .first-pic{
+  margin-left: 50px;
+  margin-top: 40px;
+  }
+  .flower-photos-container{ 
+    display: flex;
+    justify-content: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    gap: 30px;
+
+  }
+ .second-pic{
+    margin-left: 60px;
+    margin-top: 100px;
+ }  
+
+ .third-pic{
+    margin-left: 60px;
+    margin-top: 102px;
+ }
+  
+ .photo-caption-container{
+    display: flex;
+    font-weight: bold;
+    justify-content: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    gap: 380px;
+    margin-top: 30px;
+ }
+
+ /*Hot Deal section*/

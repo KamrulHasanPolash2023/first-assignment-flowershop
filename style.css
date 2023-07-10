@@ -108,3 +108,20 @@
  }
 
  /*Hot Deal section*/
+
+ .hot-deal-container{
+    height: 650px; ;
+    margin-top: 100px;
+    background-color:rgba(252, 230, 231, 0.652);
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding-left: 400px;
+    padding-right: 400px;
+    gap: 150px;
+ }
+ .hot-deal-heading{
+    font-size: 40px;
+    font-weight: bold;
+    margin-bottom: 20px;
+ }

@@ -75,16 +75,36 @@
     border-top-left-radius: 270px;
     border-top-right-radius: 270px;
   }
-  .first-pic{
-  margin-left: 50px;
-  margin-top: 40px;
-  }
+
+.second-pic-holder{
+        width: 450px;
+        height: 530px;
+        background-color: rgba(182, 233, 240, 0.746);
+        border: 1px solid rgb(255, 255, 255);
+        border-top-left-radius: 270px;
+        border-top-right-radius: 270px;
+}
+
+.third-pic-holder{
+        width: 450px;
+        height: 530px;
+        background-color: rgba(241, 188, 251, 0.746);
+        border: 1px solid rgb(255, 255, 255);
+        border-top-left-radius: 270px;
+        border-top-right-radius: 270px;
+}
+ 
   .flower-photos-container{ 
     display: flex;
     justify-content: center;
     padding-left: 200px;
     padding-right: 200px;
     gap: 30px;
+
+.first-pic{
+        margin-left: 50px;
+        margin-top: 40px;
+        }
 
   }
  .second-pic{
@@ -98,12 +118,13 @@
  }
   
  .photo-caption-container{
+    font-size: 22px;
     display: flex;
     font-weight: bold;
     justify-content: center;
     padding-left: 200px;
     padding-right: 200px;
-    gap: 380px;
+    gap: 300px;
     margin-top: 30px;
  }
 
@@ -141,25 +162,33 @@
     margin-bottom: 50px;
 
 }
-
+/* subscribe section*/
 .email-holder{
-   height: 32px;
+   height: 30px;
    width: 680px;
-   padding-top: 18px;
-   padding-right: 450px;
-   padding-bottom: 18px;
+   padding-top: 22px;
+   padding-right: 435px;
+   padding-bottom: 20px;
    padding-left: 20px;
-   font: 22px;
+   font-size: 20px;
    border: 2px solid gray;
    border-radius: 10px;
 }
 .subscribe-btn{
-   background-color: #f94e73;    
+   background-color: #f94e73;
+   font-size: 20px; 
+   color: white;  
    font-weight: bold;
-   text-decoration: none;
-   padding: 23px 30px;
+   padding: 21px 30px;
    border-radius: 10px;
 }
+.a-tag{
+    text-decoration: none;
+
+}
+
+
+/*instagram section*/
 .head-tag{
     align-items: center;
 
@@ -194,32 +223,7 @@
 
  }
 
- /* subscribe section */
-
- .subscribe-header{
-    text-align: center;
-    align-items: center;
-    
- }
- .subscribe{
-    background-image: url("./Flower Asset/Rectangle\ 9.png");
-    height: 450px;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    margin-bottom: 100px;
-    margin-left: 200px;
-    margin-right: 200px;
-
- }
-
- .subscribe{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 20px;
- }
- 
+ /* Footer section */
 
 .footer-sec{
     height: 450px;

@@ -71,6 +71,7 @@
     border: 1px solid rgb(255, 255, 255);
     border-top-left-radius: 270px;
     border-top-right-radius: 270px;
+
   }
 
 .second-pic-holder{
@@ -117,6 +118,10 @@
     padding-right: 200px;
     gap: 30px;
 
+}
+.first-pic{
+    margin-left: 60px;
+    margin-top: 41px;
 }
  .second-pic{
     margin-left: 60px;
@@ -229,7 +234,7 @@
 
 .Membership{
     height: 400px;
-    background-color: rgb(255, 186, 224);
+    background-color: rgba(250, 217, 235, 0.626);
     margin-top: 50px;
     margin-bottom: 50px;
     margin-left: 200px;
@@ -257,7 +262,7 @@
     color:white;
     align-items: center;
     text-align: center;
-    padding-top: 250px;
+    padding-top: 220px;
 }
 .shop-name{
     font-size: 70px;

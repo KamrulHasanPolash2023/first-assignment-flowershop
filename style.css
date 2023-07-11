@@ -126,14 +126,47 @@
     margin-bottom: 20px;
  }
 
- /* instagram section */
+.sebscribe-container{
+    background-image: url('./Flower Asset/Rectangle\ 9.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+    color:black;
+    align-items: center;
+    text-align: center;
+    padding-top: 280px;
+    margin-left: 200px;
+    margin-right:  200px;
+    margin-bottom: 50px;
 
+}
 
- .instagramd-heading{
-    font-size: 45px;
-    font-weight: bold;
-    margin-bottom: 10px;
- }
+.email-holder{
+   height: 32px;
+   width: 680px;
+   padding-top: 18px;
+   padding-right: 450px;
+   padding-bottom: 18px;
+   padding-left: 20px;
+   font: 22px;
+   border: 2px solid gray;
+   border-radius: 10px;
+}
+.subscribe-btn{
+   background-color: #f94e73;    
+   font-weight: bold;
+   text-decoration: none;
+   padding: 23px 30px;
+   border-radius: 10px;
+}
+.head-tag{
+    align-items: center;
+
+}
+.instagramd-heading{
+    font-size: 50px;
+}
 
  .instagramd-pgh{
     font-size: 17px;
@@ -185,30 +218,7 @@
     align-items: center;
     justify-content: center;
     gap: 20px;
-}
- .email-holder{
-    height: 40px;
-    width: 680px;
-    padding-top: 20px;
-    padding-right: 450px;
-    padding-bottom: 20px;
-    padding-left: 20;
-    font: 22px;
-    border: 2px solid rgba(165, 163, 163, 0.495);
-    border-radius: 10px;
-
  }
-
- .subscribe-btn{
-    background-color: #f94e73;    
-    font-weight: bold;
-    text-decoration: none;
-    padding: 23px 30px;
-    border-radius: 10px;
-    
-
- }
-
  
 
 .footer-sec{
@@ -222,7 +232,7 @@
 }
 
 .shop-name{
-    font-size: 50px;
+    font-size: 70px;
     font-weight: bold;
 
 }
@@ -230,4 +240,8 @@
 .first-name{
     color: yellow;
 
+}
+
+.last-name{
+    color: rgb(2, 251, 247);
 }
